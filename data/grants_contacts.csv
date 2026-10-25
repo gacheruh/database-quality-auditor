@@ -1,0 +1,53 @@
+record_id,contact_name,email,grant_amount,region,status,submission_date
+GNT-2026-001,Amina Diallo,amina.diallo@uaf-africa.org,15000.00,West Africa,Active,2026-01-10
+GNT-2026-002,Chantal Mwewa,chantal.mwewa@uaf-africa.org,,Southern Africa,Pending,2026-01-15
+GNT-2026-003,Fatima Zahra,fatima.zahra@uaf-africa.org,25000.50,North Africa,Active,2026-01-20
+GNT-2026-004,Amina Diallo,amina.diallo@uaf-africa.org,15000.00,West Africa,Active,2026-01-10
+GNT-2026-005,Grace Akinyi,grace.akinyi.uaf-africa.org,-5000.00,East Africa,Under Review,2026-02-01
+GNT-2026-006,,sarah.nsubuga@uaf-africa.org,18000.00,East Africa,Active,2026-02-05
+GNT-2026-007,Mariam Traore,mariam.traore@uaf-africa.org,12000.00,Central Africa,Active,2026-02-10
+GNT-2026-008,Zainab Bello,zainab.bello@uaf-africa.org,30000.00,West Africa,Active,2026-02-12
+GNT-2026-009,Grace Akinyi,grace.akinyi@uaf-africa.org,10000.00,East Africa,Active,2026-02-15
+GNT-2026-010,Nomusa Dlamini,nomusa.dlamini@uaf-africa.org,,Southern Africa,Pending,2026-02-18
+GNT-2026-011,Aisha Kalu,aisha.kalu@uaf-africa.org,22000.00,West Africa,Active,2026-02-20
+GNT-2026-012,Evaluation Grant,contact@uaf-africa.org,0.00,Unknown,Inactive,2026-02-22
+GNT-2026-013,Nyandeng Taban,nyandeng.taban@uaf-africa.org,14000.00,East Africa,Active,2026-02-25
+GNT-2026-014,Wanjiru Maina,wanjiru.maina@uaf-africa.org,19500.00,East Africa,Active,2026-02-28
+GNT-2026-015,Chantal Mwewa,chantal.mwewa@uaf-africa.org,25000.00,Southern Africa,Active,2026-03-01
+GNT-2026-016,Fatima Zahra,fatima.zahra@uaf-africa.org,-2000.00,North Africa,Under Review,2026-03-02
+GNT-2026-017,,mariam.traore@uaf-africa.org,12000.00,Central Africa,Active,2026-03-03
+GNT-2026-018,Zainab Bello,zainab.bello.uaf-africa.org,30000.00,West Africa,Pending,2026-03-04
+GNT-2026-019,Nomusa Dlamini,nomusa.dlamini@uaf-africa.org,16500.00,Southern Africa,Active,2026-03-05
+GNT-2026-020,Aisha Kalu,aisha.kalu@uaf-africa.org,,West Africa,Pending,2026-03-06
+GNT-2026-021,Nyandeng Taban,nyandeng.taban@uaf-africa.org,14000.00,East Africa,Active,2026-03-07
+GNT-2026-022,Wanjiru Maina,wanjiru.maina@uaf-africa.org,0.00,East Africa,Inactive,2026-03-08
+GNT-2026-023,Amina Diallo,amina.diallo@uaf-africa.org,15000.00,West Africa,Active,2026-03-09
+GNT-2026-024,Grace Akinyi,grace.akinyi@uaf-africa.org,10000.00,East Africa,Active,2026-03-10
+GNT-2026-025,Sarah Nsubuga,sarah.nsubuga@uaf-africa.org,18000.00,East Africa,Active,2026-03-11
+GNT-2026-026,Mariam Traore,mariam.traore@uaf-africa.org,21000.00,Central Africa,Active,2026-03-12
+GNT-2026-027,Zainab Bello,zainab.bello@uaf-africa.org,30000.00,West Africa,Active,2026-03-13
+GNT-2026-028,Nomusa Dlamini,nomusa.dlamini@uaf-africa.org,-1000.00,Southern Africa,Under Review,2026-03-14
+GNT-2026-029,Aisha Kalu,aisha.kalu@uaf-africa.org,22000.00,West Africa,Active,2026-03-15
+GNT-2026-030,,contact@uaf-africa.org,5000.00,Unknown,Inactive,2026-03-16
+GNT-2026-031,Nyandeng Taban,nyandeng.taban@uaf-africa.org,,East Africa,Pending,2026-03-17
+GNT-2026-032,Wanjiru Maina,wanjiru.maina@uaf-africa.org,19500.00,East Africa,Active,2026-03-18
+GNT-2026-033,Chantal Mwewa,chantal.mwewa@uaf-africa.org,25000.00,Southern Africa,Active,2026-03-19
+GNT-2026-034,Fatima Zahra,fatima.zahra@uaf-africa.org,25000.50,North Africa,Active,2026-03-20
+GNT-2026-035,Grace Akinyi,grace.akinyi@uaf-africa.org,10000.00,East Africa,Active,2026-03-21
+GNT-2026-036,Sarah Nsubuga,sarah.nsubuga.uaf-africa.org,18000.00,East Africa,Under Review,2026-03-22
+GNT-2026-037,Mariam Traore,mariam.traore@uaf-africa.org,12000.00,Central Africa,Active,2026-03-23
+GNT-2026-038,Zainab Bello,zainab.bello@uaf-africa.org,30000.00,West Africa,Active,2026-03-24
+GNT-2026-039,Nomusa Dlamini,nomusa.dlamini@uaf-africa.org,,Southern Africa,Pending,2026-03-25
+GNT-2026-040,Aisha Kalu,aisha.kalu@uaf-africa.org,22000.00,West Africa,Active,2026-03-26
+GNT-2026-041,Nyandeng Taban,nyandeng.taban@uaf-africa.org,14000.00,East Africa,Active,2026-03-27
+GNT-2026-042,Wanjiru Maina,wanjiru.maina@uaf-africa.org,19500.00,East Africa,Active,2026-03-28
+GNT-2026-043,Chantal Mwewa,chantal.mwewa@uaf-africa.org,-4500.00,Southern Africa,Under Review,2026-03-29
+GNT-2026-044,Fatima Zahra,fatima.zahra@uaf-africa.org,25000.50,North Africa,Active,2026-03-30
+GNT-2026-045,Amina Diallo,amina.diallo@uaf-africa.org,15000.00,West Africa,Active,2026-03-31
+GNT-2026-046,,sarah.nsubuga@uaf-africa.org,18000.00,East Africa,Active,2026-04-01
+GNT-2026-047,Mariam Traore,mariam.traore@uaf-africa.org,12000.00,Central Africa,Active,2026-04-02
+GNT-2026-048,Zainab Bello,zainab.bello@uaf-africa.org,30000.00,West Africa,Active,2026-04-03
+GNT-2026-049,Grace Akinyi,grace.akinyi@uaf-africa.org,10000.00,East Africa,Active,2026-04-04
+GNT-2026-050,Nomusa Dlamini,nomusa.dlamini@uaf-africa.org,16500.00,Southern Africa,Active,2026-04-05
+GNT-2026-051,Aisha Kalu,aisha.kalu@uaf-africa.org,,West Africa,Pending,2026-04-05
+GNT-2026-052,Nyandeng Taban,nyandeng.taban@uaf-africa.org,14000.00,East Africa,Active,2026-04-05
